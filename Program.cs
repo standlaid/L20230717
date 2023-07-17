@@ -35,6 +35,8 @@ namespace HelloWorld2
             //D : 60 ~ 70
             //F : 0 ~ 60
 
+            //클론에서 작업 추가
+
             int score = 99;
             int scoreDivide = score / 10;
             string grade = "F";
