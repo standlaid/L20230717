@@ -36,6 +36,7 @@ namespace HelloWorld2
             //F : 0 ~ 60
 
             //클론에서 작업 추가
+            //싱크 (풀로 받음)
 
             int score = 99;
             int scoreDivide = score / 10;
